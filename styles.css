@@ -1,5 +1,5 @@
 body {
-  color: black;
+  color: white;
   background-color: white;
 }
 
@@ -22,5 +22,9 @@ h1 {
 }
 
 body {
-  background-color: #FCF9E5;
+  background-color: #EC7063;
+}
+
+h2 {
+  text-align: center;
 }
