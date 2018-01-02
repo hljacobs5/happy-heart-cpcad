@@ -1,0 +1,26 @@
+body {
+  color: black;
+  background-color: white;
+}
+
+ul {
+  text-align: center;
+  margin-top: 60px;
+  border: black;
+}
+
+li {
+    display: inline;
+    color: #dece23;
+   }
+
+h1 {
+  text-align: center;
+  margin-top: -150px;
+  font-size: 60px;
+  font-style: sans-serif;
+}
+
+body {
+  background-color: #FCF9E5;
+}
